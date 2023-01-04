@@ -1,1 +1,2 @@
-# An-lise-Explorat-ria-com-Python
+#  Análise Exploratória de Dados com Python
+Os dados estão relacionados com campanhas de marketing direto de uma instituição bancária portuguesa. As campanhas de marketing foram baseadas em telefonemas e m uitas vezes, era necessário mais do que um contato para o mesmo cliente, para saber se o produto (depósito bancário) seria sim ou não subscrito. A base de dados contém atributos com informações de clientes, dados da campanha atual e resultados das campanhas anteriores. O objetivo da classificação é prever se o cliente irá subscrever (sim/não) um depósito a prazo (variável). Este conjunto de dados está disponível ao público para pesquisa. Os detalhes estão descritos em [Moro et al., 2014].
